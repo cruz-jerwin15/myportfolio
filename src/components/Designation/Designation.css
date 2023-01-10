@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.designation{
+    font-size: 1.05em;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+}
+.designation span{
+    color:#86E5FF;
+}

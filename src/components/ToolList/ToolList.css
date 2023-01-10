@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.tool-list{
+    width:40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
