@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.skillset{
+   padding-left: 1em;
+   padding-right: 1em;
+   padding-top:1em;
+}
+.profile{
+    margin-top:3em;
+    /* padding-left:calc(50vw - 15em); */
+    padding-right:calc(50vw - 15em);
+}
+.bio{
+    padding-top:1em;
+}
+.bio h3{
+    font-size: 1.2em;
+    font-family: 'Poppins', sans-serif;
+}
+.bio p{
+    padding-top:1em;
+    font-family: 'Poppins', sans-serif;
+}

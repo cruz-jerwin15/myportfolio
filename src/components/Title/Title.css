@@ -16,7 +16,7 @@
 }
 
 .right-oblong{
-    width:37%;
+    width:11em;
     height:1.5rem;
     background-color: #FFC93C;
     outline: none;
@@ -27,7 +27,7 @@
     z-index: 1;
 }
 .left-oblong{
-    width:37%;
+    width:11em;
     height:1.5rem;
     background-color: #5BC0F8;
     outline: none;

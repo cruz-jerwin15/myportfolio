@@ -7,8 +7,8 @@ const SectionTitle=()=> {
             <div className="section-title">
                 
                 <h2 >Skills</h2>
-                <div class="left-title"></div>
-                <div class="right-title"></div>
+                <div className="left-title"></div>
+                <div className="right-title"></div>
             </div>
             
         </React.Fragment>

@@ -4,11 +4,11 @@ const Title=()=>{
 
     return(
         <React.Fragment>
-            <div class="title-div">
-                <div class="right-oblong">
+            <div className="title-div">
+                <div className="right-oblong">
                 </div>
                 <h2>Hi, I'm Jerwin Cruz</h2>
-                <div class="left-oblong">
+                <div className="left-oblong">
                 </div>
             </div>
 

@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.bio{
+    width: 100%;
+}
+.bio h3{
+    color: black;
+    font-size: 1em;
+    line-height: 1.1em;
+    font-family: 'Poppins', sans-serif;
+}
+.bio p{
+    color: black;
+    font-size: 0.95em;
+    line-height: 1.1em;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}

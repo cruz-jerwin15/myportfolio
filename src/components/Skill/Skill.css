@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.skill{
+    display: inline-block;
+    padding-left:2em;
+    padding-right:2em;
+    padding-top: 0.4em;
+    text-align: center;
+    background-color: #0081C9;
+    border-radius: 20px;
+    margin-top:0.5em;
+}
+.skill h3{
+    font-size:1rem;
+    color:white;
+}

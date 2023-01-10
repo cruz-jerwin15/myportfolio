@@ -1,14 +1,14 @@
 
 import './App.css';
 import Hero from './components/Hero/Hero';
-import SectionTitle from './components/SectionTitle/SectionTitle';
+import SkillSet from './components/SkillSet/SkillSet';
 
 
 function App() {
   return (
     <div>
       <Hero/>
-      <SectionTitle/>
+      <SkillSet/>
     </div>
   );
 }

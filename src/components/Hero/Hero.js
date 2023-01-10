@@ -9,7 +9,7 @@ import './Hero.css';
 const Hero=()=> {
     return (
          <React.Fragment>
-            <div className='hero'>
+            <div className="hero">
                 <Header/>
                 <div className="title">
                     <Title/>
